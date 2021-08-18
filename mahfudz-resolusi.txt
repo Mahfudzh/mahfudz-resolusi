@@ -1,0 +1,6 @@
+mahfudz resolusi :
+1. Belajar GIT & GITHUB
+2. Belajar Dart 
+3. Belajar Flotter
+4. Melancari sql
+5. Bahasa Inggris lagi
