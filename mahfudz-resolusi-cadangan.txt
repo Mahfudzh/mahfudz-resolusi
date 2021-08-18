@@ -1,0 +1,7 @@
+rencana konten ku
+- javascript
+  * ES6
+  * Framework Javascript
+- PHP
+- Interview
+- vlog  
