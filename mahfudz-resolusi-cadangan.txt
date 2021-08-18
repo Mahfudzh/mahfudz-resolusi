@@ -3,6 +3,7 @@ rencana konten ku
   * ES6
   * Framework Javascript
     ^ Vue
+    ^ React
 - Struktur data dasar
 - PHP
   * Laravel
